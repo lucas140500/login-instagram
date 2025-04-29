@@ -1,0 +1,65 @@
+body {
+    background-color: #fff;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 40px 20px;
+  }
+  
+  .language {
+    color: gray;
+    margin-bottom: 20px;
+  }
+  
+  div img{
+    height: 10vh;
+  }
+  
+  .message {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .highlight {
+    background:#000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  
+  .open-btn {
+    background-color: #0095f6;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  
+  .login {
+    margin-top: 20px;
+    color: lightgray;
+  }
+  
+  .login a {
+    color: #0095f6;
+    text-decoration: none;
+  }
+  
+  .meta {
+    margin-top: 60px;
+    color: gray;
+    font-size: 14px;
+  }
+  
+  .meta-logo {
+    width: 60px;
+    margin-top: 5px;
+  }
